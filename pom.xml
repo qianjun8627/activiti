@@ -459,31 +459,31 @@
     <repository>
       <id>activiti</id>
       <name>Activiti</name>
-      <url>http://maven.alfresco.com/nexus/content/repositories/activiti/</url>
+      <url>https://maven.alfresco.com/nexus/content/repositories/activiti/</url>
     </repository>
     <repository>
       <id>activiti-third-party</id>
       <name>Activiti third party</name>
-      <url>http://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/</url>
+      <url>https://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/</url>
     </repository>
     <repository>
       <id>spring-extensions-milestone</id>
       <name>Spring Extensions Milestone Repository</name>
-      <url>http://extensions.springframework.org/milestone</url>
+      <url>https://extensions.springframework.org/milestone</url>
     </repository>
     <repository>
       <id>jboss</id>
       <name>JBoss Repository</name>
-      <url>http://repository.jboss.org/nexus/content/groups/public</url>
+      <url>https://repository.jboss.org/nexus/content/groups/public</url>
     </repository>
     <repository>
       <id>maven-restlet</id>  
       <name>Public online Restlet repository</name>  
-      <url>http://maven.restlet.org</url>  
+      <url>https://maven.restlet.org</url>  
     </repository>
     <repository>
       <id>vaadin-addons</id>
-      <url>http://maven.vaadin.com/vaadin-addons</url>
+      <url>https://maven.vaadin.com/vaadin-addons</url>
     </repository>
   </repositories>
 
@@ -491,7 +491,7 @@
     <pluginRepository>
       <id>maven2.java.net</id>
       <name>Java.net Repository for Maven 2</name>
-      <url>http://download.java.net/maven/2/</url>
+      <url>https://download.java.net/maven/2/</url>
     </pluginRepository>
     <pluginRepository>
       <id>sonatype-snapshot-repo</id>
@@ -683,12 +683,12 @@
   <distributionManagement>
     <snapshotRepository>
       <id>alfresco.snapshot.repo</id>
-      <url>http://maven.alfresco.com/nexus/content/repositories/activiti-snapshots/</url>
+      <url>https://maven.alfresco.com/nexus/content/repositories/activiti-snapshots/</url>
       <uniqueVersion>false</uniqueVersion>
     </snapshotRepository>
     <repository>
       <id>alfresco.release.repo</id>
-      <url>http://maven.alfresco.com/nexus/content/repositories/activiti/</url>
+      <url>https://maven.alfresco.com/nexus/content/repositories/activiti/</url>
     </repository>
   </distributionManagement>
 
